@@ -1,2 +1,2 @@
 # DESKTOP.GG
-colocar as coisas do desktop metabloom
+Projeto Desktop destinado à Matéria de Orientação a Objetos.
